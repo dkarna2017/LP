@@ -59,9 +59,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EDDY.IS.LeadPing\EDDY.IS.LeadPing.csproj">
+    <ProjectReference Include="..\EDDY.IS.LeadPing\EDDY.IS.LeadPing.Engine.csproj">
       <Project>{af8d14c2-fb3a-44b3-a445-03a8db3dd16c}</Project>
-      <Name>EDDY.IS.LeadPing</Name>
+      <Name>EDDY.IS.LeadPing.Engine</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

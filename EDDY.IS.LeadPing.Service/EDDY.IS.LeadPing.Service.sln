@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDDY.IS.LeadPing.Service", "EDDY.IS.LeadPing.Service\EDDY.IS.LeadPing.Service.csproj", "{99833CE3-7F25-4B44-ADD0-597AB9023548}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDDY.IS.LeadPing", "EDDY.IS.LeadPing\EDDY.IS.LeadPing.csproj", "{AF8D14C2-FB3A-44B3-A445-03A8DB3DD16C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDDY.IS.LeadPing.Engine", "EDDY.IS.LeadPing\EDDY.IS.LeadPing.Engine.csproj", "{AF8D14C2-FB3A-44B3-A445-03A8DB3DD16C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDDY.IS.LeadPing.DI", "EDDY.IS.LeadPing.DI\EDDY.IS.LeadPing.DI.csproj", "{9CDA61DE-29B7-4079-B1EE-46FADC502C58}"
 EndProject
