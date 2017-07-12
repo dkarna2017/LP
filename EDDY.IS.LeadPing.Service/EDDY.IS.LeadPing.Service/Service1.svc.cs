@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EDDY.IS.LeadPing.DI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -14,7 +15,9 @@ namespace EDDY.IS.LeadPing.Service
     {
         public string GetData(int value)
         {
-            return string.Format("You entered: {0}", value);
+            //return string.Format("You entered: {0}", value);
+
+            return (new Class1()).execute();
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)

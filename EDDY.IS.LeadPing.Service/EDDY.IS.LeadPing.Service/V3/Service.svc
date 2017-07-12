@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="EDDY.IS.LeadPing.Service.V3.Service" CodeBehind="Service.svc.cs" %>
